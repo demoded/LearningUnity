@@ -259,3 +259,16 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/devslopes-errors-and-demugging
+/devslopes-01-RollAZombie
+/devslopes-02-IntroToCSharp/Intro to C#
+/devslopes-03-HauntedZombieRush/Library
+/devslopes-03-HauntedZombieRush/ProjectSettings
+/devslopes-03-HauntedZombieRush/.collabignore
+/devslopes-03-HauntedZombieRush/Assets/TextMesh Pro
+/devslopes-03-HauntedZombieRush/Assets/Scenes
+/devslopes-03-HauntedZombieRush/Assets/Prefabs
+/devslopes-03-HauntedZombieRush/Assets/Audio
+/devslopes-03-HauntedZombieRush/Assets/Animator Controllers
+/devslopes-03-HauntedZombieRush/Assets/3D
+/devslopes-03-HauntedZombieRush/Assets/2D Textures
